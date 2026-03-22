@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://adpick.ai.kr/sitemap.xml
